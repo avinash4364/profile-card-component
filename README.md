@@ -20,6 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
+![127 0 0 1_5500_index html](https://github.com/avinash4364/profile-card-component/assets/24203618/86cefe16-e9c2-4611-bb4f-9b624f027127)
+![127 0 0 1_5500_index html (1)](https://github.com/avinash4364/profile-card-component/assets/24203618/db2ca152-c327-4f20-bca5-5c7b238d7f3d)
 
 ### Links
 
